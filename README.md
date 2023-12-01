@@ -3,7 +3,6 @@
 *`Issued: 14/11/2023`*
 
 ## Key Messages
-***
 **Most provinces have experienced well above-average rainfall in recent months, providing relief to drought conditions. Hela on drought watch with servere vulnerability levels. El Niño and positive IOD is underway. While there is still potential that the combined _drying effects_ of El Niño and positive IOD are in play, their effects are not physically visible at this time.**
 ***
 
@@ -11,7 +10,7 @@
 `-` | Derived from observed 3-month rainfall and vegetation health, along with 3-month forecasted rainfall. | `-`
  --- | :---: | ---
  `-`| ![dews map][dews] | `-` 
-***
+
 - Drought conditions persist for Hela at 3-month timescales.
 - All most all provinces have received well above average rainfall in recent months easing drought conditions at 3-month timescales.
 - At the 12-month rainfall timescale, deficiencies linger for Bougainville and some areas in the Highlands and Momase provinces. Long term deficiencies will have different impacts to short term rainfall deficiencies. Low groundwater, brackish wells and reduced streamflow may be some impacts observed at this timescale.
@@ -38,7 +37,7 @@ Hela | (no province) | (no province)
 
 ## Provinces at Risk if Drought Occurs
 **Contextualise drought early warning information with drought risk information**
->Drought risk is the probability of harmful impacts resulting from interactions between drought hazard, exposure, and vulnerability. Hazard information is given by the Early Warning Status, with drought exposure and vulnerability levels shown in the maps below.
+>**Drought risk** is the probability of harmful impacts resulting from interactions between drought hazard, exposure, and vulnerability. Hazard information is given by the Early Warning Status, with drought exposure and vulnerability levels shown in the maps below.
 
 Expose | Vulnerability | Scale
 :---: | :---: | :---:
@@ -46,13 +45,13 @@ Expose | Vulnerability | Scale
 ![exposure map of PNG provinces][exp] | ![vulnerability map of PNG provinces][vul] | ![Scale][scl]
 
 ### Province of concern
-***
+
  * **Hela** has a majority Drought Watch status with Moderate exposure levels and Severe vulnerability levels.
 ***
 
 ## Climate Context
 **A summary of the relevant climate drivers affecting PNG over the coming months**
-***
+
 * ACCESS-S outlook for December to Febuary forecasts a likely average to above average rainfall for the Momase region, the top half of the Highlands region, and the New Guinea Islands. The southern half of the country is forecasted to recieve below average rainfall. ACCESS-S forecast the next fortnight showing a likely below average rainfall throughout the country.
 * El Niño is currently in progress. Models indicate further warming of the central to eastern Pacific is likely. This El Nino is likely to continue into at least April 2024.  
 * A positive Indian Ocean Dipole (IOD) continues.  A positive IOD typically can suppress rainfall over much of southern and south-eastern parts of PNG.
