@@ -9,22 +9,22 @@
 ## Drought Early Warning Status (DEWS)
 `-` | Derived from observed 3-month rainfall and vegetation health, along with 3-month forecasted rainfall. | `-`
  --- | :---: | ---
- `-`| ![dews map][dews] | `-` 
+ `+`| ![dews map][dews] | `+` 
 
 - Drought conditions persist for Hela at 3-month timescales.
 - All most all provinces have received well above average rainfall in recent months easing drought conditions at 3-month timescales.
-- At the 12-month rainfall timescale, deficiencies linger for Bougainville and some areas in the Highlands and Momase provinces. Long term deficiencies will have different impacts to short term rainfall deficiencies. Low groundwater, brackish wells and reduced streamflow may be some impacts observed at this timescale.
+- At the [12-month rainfall timescale](http://access-s.clide.cloud/files/project/EAR_watch/PNG/ear_watch.SPI.mswep.PNG.month12.png), deficiencies linger for Bougainville and some areas in the Highlands and Momase provinces. Long term deficiencies will have different impacts to short term rainfall deficiencies. Low groundwater, brackish wells and reduced streamflow may be some impacts observed at this timescale.
 ***
 ### 3-month time scale provincial summary
 (A province's overall status is given by its majority status on the map and is presented in this [summary table](http://access-s.clide.cloud/files/project/PNG_crews/SEMDP-products/monthly/DEWS/drought.status.formatted.gsmap_own.terciles.3m.html)
 )
-<code style="color : yellow">Drought Watch</code>| <code style="color : orange">Drought Alert</code> | <code style="color : red">Drought Critical</code>
---- | --- | ---
+**Drought Watch** | **Drought Alert** | **Drought Critical**
+:---: | :---: | :---:
 `Below average rainfall or Stressed vegetation or Dry forecast` | `(Below average rainfall or Stressed vegetation) and Dry forecast` | `Below average rainfall and Stressed vegetation and Dry forecast`
-Hela | (no province) | (no province)
+**Hela** | (no province) | (no province)
 
 ### 3-month DEWS inputs
-3-month Observed Rainfall | 3-month Observed Vegetation Health | 3-month Forecast Rainfall
+[3-month Observed Rainfall](http://access-s.clide.cloud/files/project/PNG_crews/SEMDP-products/monthly/spi.moments.png.gsmap.3month.0.1deg.png) | [3-month Observed Vegetation Health](http://access-s.clide.cloud/files/project/PNG_crews/SEMDP-products/monthly/vhi.3month.gridded.png) | [3-month Forecast Rainfall](http://access-s.clide.cloud/files/project/PNG_crews/ACCESS_S-outlooks/PNG_crews/seasonal/forecast/rain.forecast.terciles.PNG_crews.season1.png)
 --- | --- | ---
 ![standardized rainfall index for 3 months][spi3] | ![vegetation health index for 3 months][vhi3] | ![chance of below, near or above normal rainfall][rfc3]
 
@@ -39,12 +39,12 @@ Hela | (no province) | (no province)
 **Contextualise drought early warning information with drought risk information**
 >**Drought risk** is the probability of harmful impacts resulting from interactions between drought hazard, exposure, and vulnerability. Hazard information is given by the Early Warning Status, with drought exposure and vulnerability levels shown in the maps below.
 
-Expose | Vulnerability | Scale
+Exposure | Vulnerability | Scale
 :---: | :---: | :---:
 `Extent of exposed aspects of the total population and its livelihoods in an area which drought may occur.` | `Likelihood of exposed factors to suffer negative impacts when drought occurs.` |
 ![exposure map of PNG provinces][exp] | ![vulnerability map of PNG provinces][vul] | ![Scale][scl]
 
-### Province of concern
+### Provinces of Concern
 
  * **Hela** has a majority Drought Watch status with Moderate exposure levels and Severe vulnerability levels.
 ***
