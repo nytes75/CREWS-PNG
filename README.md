@@ -1,5 +1,5 @@
 ![Logo](assets/img/header.png)
-# November 2023 Drought Update
+# December 2023 Drought Update [Draft]
 *`Issued: Not yet Issued: Draft`*
 
 ## Key Messages
