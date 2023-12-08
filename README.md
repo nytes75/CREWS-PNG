@@ -1,18 +1,18 @@
 ![Logo](assets/img/header.png)
 # November 2023 Drought Update
-*`Issued: 14/11/2023`*
+*`Issued: Not yet Issued: Draft`*
 
 ## Key Messages
-**Most provinces have experienced well above-average rainfall in recent months, providing relief to drought conditions. Hela on drought watch with servere vulnerability levels. El Niño and positive IOD is underway. While there is still potential that the combined _drying effects_ of El Niño and positive IOD are in play, their effects are not physically visible at this time.**
+**Drought Critical conditions have emerged in the southern end of Western Province. Hela continues to be on Drought Watch with Servere Vulnerability levels.  El Niño and positive IOD are underway. While there is still potential that the combined drying effects are in play, their effects are not physically visible at this time.**
 ***
 
 ## Drought Early Warning Status (DEWS)
 `-` | Derived from observed 3-month rainfall and vegetation health, along with 3-month forecasted rainfall. | `-`
  --- | :---: | ---
  `+`| ![dews map][dews] | `+` 
-
-- Drought conditions persist for Hela at 3-month timescales.
-- All most all provinces have received well above average rainfall in recent months easing drought conditions at 3-month timescales.
+ 
+- Drought Critical areas have emerged towards the south of Western province.
+- Drought watch conditions persist for Hela at 3-month timescales.
 - At the [12-month rainfall timescale](http://access-s.clide.cloud/files/project/EAR_watch/PNG/ear_watch.SPI.mswep.PNG.month12.png), deficiencies linger for Bougainville and some areas in the Highlands and Momase provinces. Long term deficiencies will have different impacts to short term rainfall deficiencies. Low groundwater, brackish wells and reduced streamflow may be some impacts observed at this timescale.
 ***
 ### 3-month time scale provincial summary
@@ -21,7 +21,7 @@
 **Drought Watch** | **Drought Alert** | **Drought Critical**
 :---: | :---: | :---:
 `Below average rainfall or Stressed vegetation or Dry forecast` | `(Below average rainfall or Stressed vegetation) and Dry forecast` | `Below average rainfall and Stressed vegetation and Dry forecast`
-**Hela** | (no province) | (no province)
+**Hela, NCD and New Ireland** | (no province) | (no province)
 
 ### 3-month DEWS inputs
 [3-month Observed Rainfall](http://access-s.clide.cloud/files/project/PNG_crews/SEMDP-products/monthly/spi.moments.png.gsmap.3month.0.1deg.png) | [3-month Observed Vegetation Health](http://access-s.clide.cloud/files/project/PNG_crews/SEMDP-products/monthly/vhi.3month.gridded.png) | [3-month Forecast Rainfall](http://access-s.clide.cloud/files/project/PNG_crews/ACCESS_S-outlooks/PNG_crews/seasonal/forecast/rain.forecast.terciles.PNG_crews.season1.png)
@@ -52,16 +52,16 @@ Exposure | Vulnerability | Scale
 ## Climate Context
 **A summary of the relevant climate drivers affecting PNG over the coming months**
 
-* ACCESS-S outlook for December to Febuary forecasts a likely average to above average rainfall for the Momase region, the top half of the Highlands region, and the New Guinea Islands. The southern half of the country is forecasted to recieve below average rainfall. ACCESS-S forecast the next fortnight showing a likely below average rainfall throughout the country.
-* El Niño is currently in progress. Models indicate further warming of the central to eastern Pacific is likely. This El Nino is likely to continue into at least April 2024.  
+* ACCESS-S outlook for next 3 months, January to March, forecasts a likely above average rainfall for the country. For next fortnight a likely averge to above average rainfall outlook for East Sepik, Maus and New Ireland, however for most parts of the country below average rainfall is expected.
+* El Niño is in progress.Climate models forecasts further warming of the central to eastern Pacific sea surface temperatures is possible. This El Nino is likely to continue into at least April 2024.  
 * A positive Indian Ocean Dipole (IOD) continues.  A positive IOD typically can suppress rainfall over much of southern and south-eastern parts of PNG.
 * El Niño and its concurrence with the positive IOD can have an "amplifying effect" over the country. Their combined drying effects on PNG are typically stronger and more widespread, potentially leading to reduced rainfall. While there is still some potential in their combined drying effects, their effects are not physically visible at this time.
-* The Madden–Julian Oscillation (MJO) is currently weak. Around half of the international climate models indicate that the MJO will progress eastwards across the western Pacific later this week.
+* A moderately strong Madden–Julian Oscillation (MJO) is passing over the country with most of its impact further up north. Around half of the international climate models indicate that the MJO will progress eastwards across the western Pacific later next week. MJO over the country is often associated with above average cloudiness and rainfall.
 ***
 ![footer](assets/img/footer.png)
 
 <!-- Images Source -->
-[dews]: products/November_DEWS.png
+[dews]: products/DEWS_map.png
 
 [spi3]: products/spi3.png
 [vhi3]: products/vhi3.png
