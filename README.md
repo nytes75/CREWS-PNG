@@ -1,9 +1,9 @@
 ![Logo](assets/img/header.png)
-# December 2023 Drought Update [Draft]
-*`Issued: Not yet Issued: Draft`*
+# December 2023 Drought Update
+*`Issued: 12/12/2023`*
 
 ## Key Messages
-**Drought Critical conditions have emerged in the southern end of Western Province. Hela continues to be on Drought Watch with Servere Vulnerability levels.  El Niño and positive IOD are underway. While there is still potential that the combined drying effects are in play, their effects are not physically visible at this time.**
+**Drought Critical conditions over small areas have emerged in the southern end of Western Province. Hela continues to be on Drought Watch with Severe Vulnerability levels.  El Niño and positive IOD are underway. While there is still potential that the combined drying effects are in play, their effects are not physically visible at this time.**
 ***
 
 ## Drought Early Warning Status (DEWS)
@@ -11,7 +11,7 @@
  --- | :---: | ---
  `+`| ![dews map][dews] | `+` 
  
-- Drought Critical areas have emerged towards the south of Western province.
+- Small areas of Drought Critical have emerged towards the south of Western province.
 - Drought watch conditions persist for Hela at 3-month timescales.
 - At the [12-month rainfall timescale](http://access-s.clide.cloud/files/project/EAR_watch/PNG/ear_watch.SPI.mswep.PNG.month12.png), deficiencies linger for Bougainville and some areas in the Highlands and Momase provinces. Long term deficiencies will have different impacts to short term rainfall deficiencies. Low groundwater, brackish wells and reduced streamflow may be some impacts observed at this timescale.
 ***
@@ -52,11 +52,11 @@ Exposure | Vulnerability | Scale
 ## Climate Context
 **A summary of the relevant climate drivers affecting PNG over the coming months**
 
-* ACCESS-S outlook for next 3 months, January to March, forecasts a likely above average rainfall for the country. For next fortnight a likely averge to above average rainfall outlook for East Sepik, Maus and New Ireland, however for most parts of the country below average rainfall is expected.
-* El Niño is in progress.Climate models forecasts further warming of the central to eastern Pacific sea surface temperatures is possible. This El Nino is likely to continue into at least April 2024.  
-* A positive Indian Ocean Dipole (IOD) continues.  A positive IOD typically can suppress rainfall over much of southern and south-eastern parts of PNG.
+* ACCESS-S outlook for next 3 months, January to March, forecasts a likely above average rainfall for the country. For next fortnight a likely averge to above average rainfall outlook for East Sepik, Manus and New Ireland, however for most parts of the country below average rainfall is expected.
+* El Niño currently in place. This El Nino is likely to continue into at least March 2024.  
+* A positive Indian Ocean Dipole (IOD) continues. Models indicate this positive IOD to end likely in January.
 * El Niño and its concurrence with the positive IOD can have an "amplifying effect" over the country. Their combined drying effects on PNG are typically stronger and more widespread, potentially leading to reduced rainfall. While there is still some potential in their combined drying effects, their effects are not physically visible at this time.
-* A moderately strong Madden–Julian Oscillation (MJO) is passing over the country with most of its impact further up north. Around half of the international climate models indicate that the MJO will progress eastwards across the western Pacific later next week. MJO over the country is often associated with above average cloudiness and rainfall.
+* A moderately strong Madden–Julian Oscillation (MJO) is passing over the region. Around half of the international climate models indicate that the MJO will progress eastwards across the western Pacific this week. MJO over the country is often associated with above average cloudiness and rainfall.
 ***
 ![footer](assets/img/footer.png)
 
