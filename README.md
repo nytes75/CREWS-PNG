@@ -75,7 +75,7 @@
 
 ---
 
-footer
+![footer](assets/img/footer.png)
 
 <!-- Images Source -->
 
