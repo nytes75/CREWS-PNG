@@ -28,7 +28,7 @@
 
 |                                  **Drought Watch**                                  |   **Drought Alert**   | **Drought Critical** |
 | :----------------------------------------------------------------------------------------: | :--------------------------: | :-------------------------: |
-|                                `Below average rainfall `                                | `(Below average rainfall ` | `Below average rainfall ` |
+|                                `Below average rainfall or Stressed vegetation or Dry forecast`                                | `(Below average rainfall or Stressed vegetation) and Dry forecast ` | `Below average rainfall and Stressed vegetation and Dry forecast` |
 | **East New Britain, Enga, Hela, Manus, Milne Bay, NCD, New Ireland and West New Britain** |        (no province)        |        (no province)        |
 
 ### 3-month DEWS inputs
